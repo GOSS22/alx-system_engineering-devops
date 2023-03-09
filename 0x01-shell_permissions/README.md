@@ -10,3 +10,4 @@ this script sets the permission to the file
 this script sets the mode of the file
 this script sets the mode of the file
 this script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+this script creates a directory and add permissions to it
