@@ -14,3 +14,4 @@ this script creates a directory and add permissions to it
 this script changes the group owner
 this script changes the owner and the group owner for all the files and directories in the working directory
 this script changes the owner and the group owner of a symbolic link
+this script changes the owner of the file for a specified user
