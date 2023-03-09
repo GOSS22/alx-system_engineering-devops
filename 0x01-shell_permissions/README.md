@@ -12,3 +12,4 @@ this script sets the mode of the file
 this script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 this script creates a directory and add permissions to it
 this script changes the group owner
+this script changes the owner and the group owner for all the files and directories in the working directory
