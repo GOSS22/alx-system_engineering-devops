@@ -7,3 +7,4 @@ this script adds execute permission to the owner of a file
 this script adds execute permission to the owner and the group owner, and read permission to other users
 this script adds execution permission to the owner, the group owner and the other usersof a file
 this script sets the permission to the file
+this script sets the mode of the file
