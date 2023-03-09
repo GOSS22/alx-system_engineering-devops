@@ -9,3 +9,4 @@ this script adds execution permission to the owner, the group owner and the othe
 this script sets the permission to the file
 this script sets the mode of the file
 this script sets the mode of the file
+this script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
