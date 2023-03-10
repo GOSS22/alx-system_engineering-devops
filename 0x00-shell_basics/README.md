@@ -4,3 +4,4 @@ this script that changes the working directory to the user’s home directory
 this script Display current directory contents in a long format
 this script Display current directory contents, including hidden files in long format
 this script Display current directory contents
+this script creates a directory named my_first_directory in the /tmp/ directory
