@@ -5,3 +5,4 @@ this script Display current directory contents in a long format
 this script Display current directory contents, including hidden files in long format
 this script Display current directory contents
 this script creates a directory named my_first_directory in the /tmp/ directory
+this script Move the file betty from /tmp/ to /tmp/my_first_directory
